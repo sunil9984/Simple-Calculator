@@ -10,6 +10,7 @@ function clearDisplay() {
 display.value = '';
 }
 
+const diaplay1 = document.getElementById('display');
 
 function deleteLast() {
 display.value = display.value.slice(0, -1);
@@ -23,3 +24,5 @@ display.value = eval(display.value);
 display.value = 'Error';
 }
 }
+
+
