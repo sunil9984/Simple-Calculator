@@ -14,7 +14,6 @@ It performs basic arithmetic operations with a user-friendly interface.
 - Division
 - Clear (C) button
 - Backspace / Cut (⌫) button
-- Disable calculator (❌)
 - Clean and responsive UI
 - Safe logic (no use of `eval()`)
 
